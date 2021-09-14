@@ -1,0 +1,80 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700%27');
+.trecho {
+    font: normal 14px 'Open Sans', sans-serif;
+    color: white;
+}
+
+#subtitle {
+    text-align: left;
+}
+
+#myFooter {
+    padding-top: 32px;
+    background-color: black;
+}
+
+#myFooter .container {
+    text-align: center;
+}
+
+#myFooter .footer-copyright {
+    text-align: center;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#myFooter a {
+    color: white;
+}
+
+#myFooter li {
+    display: inline-block;
+    line-height: 2;
+}
+
+#myFooter .footer-social {
+    text-align: center;
+    padding-top: 25px;
+    background-color: #eee;
+}
+
+#myFooter .fa {
+    font-size: 20px;
+    color: #d0d0d0;
+    background-color: black;
+    border-radius: 20px;
+    border: 2px solid #d0d0d0;
+    margin: 5px;
+    height: 40px;
+    width: 40px;
+    padding-top: 8px;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+#myFooter .fa-facebook:hover {
+    color: #2b55ff;
+}
+
+#myFooter .fa-facebook:focus {
+    color: #2b55ff;
+}
+
+#myFooter .fa-instagram:hover {
+    color: purple;
+}
+
+#myFooter .fa-instagram:focus {
+    color: purple;
+}
+
+#myFooter .fa-linkedin:hover {
+    color: #0E76A8;
+}
+
+#myFooter .fa-linkedin:focus {
+    color: #00aced;
+}
